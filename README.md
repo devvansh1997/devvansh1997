@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dev(ansh)</h1>
-<h3 align="center">A Data Science enthusiast with a keen eye for detail. I am currently looking for full time work opportunities as a Data Scientist/Data Analyst.</h3>
-
-- 🔭 I’m currently working on [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
+<h3 align="center">A Data Science enthusiast with an interest in Computer Vision. I am currently pursuing a PhD in Data Science @ BGSU.</h3>
 
 - 🌱 I’m currently learning **Snowflake integration with S3**
 
-- 💬 Ask me about **Python Programming,Tableau/Power BI Visualizations**
+- 💬 Ask me about **Object Detection Frameworks,Python Programming**
 
 - 📫 How to reach me **sharmad@bgsu.edu**
 
-- 📄 Know about my experiences [https://ufile.io/t1s2d8oq](https://ufile.io/t1s2d8oq)
+- 📄 Know about my experiences(CV) [https://ufile.io/t1s2d8oq](https://ufile.io/t1s2d8oq)
 
 - ⚡ Fun fact **I love to read and talk about Historical Event. (Maybe not so fun)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/devvnash1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devvnash1997" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-sharma-663001201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-sharma-663001201/" height="30" width="40" /></a>
 </p>
 
