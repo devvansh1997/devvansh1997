@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **sharmad@bgsu.edu**
 
-- 📄 Know about my experiences(CV) [https://ufile.io/t1s2d8oq](https://ufile.io/t1s2d8oq)
+- 📄 Know about my experiences [Resume](./DS_Resume_Latest.pdf)
 
-- ⚡ Fun fact **I love to read and talk about Historical Event. (Maybe not so fun)**
+- ⚡ Fun fact **I love to read and talk about Historical Events.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
